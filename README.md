@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋, I'm Cihan</h1>
 <h3 align="center">I am Cihan, I graduated from Sakarya University Computer Engineering Department in 2014. I have been an iOS developer working on developing high quality, user friendly and scalable applications for about 8 years. I love to follow the latest Apple technologies and always improve myself.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cihankarabas&label=Profile%20views&color=0e75b6&style=flat" alt="cihankarabas" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cihankarabas" alt="cihankarabas" /></a> </p>
 
-- 📫 How to reach me **• [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:karabascihan@gmail.com) • [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/cihan-karabas-80993149/)**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 How to reach me: </h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/cihan-karabas-80993149/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cihan-karabas-80993149/" height="30" width="40" /></a>
-<a href="https://instagram.com/karabas_cihan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karabas_cihan" height="30" width="40" /></a>
+<a href="mailto:karabascihan@gmail.com" target="blank">
+  <img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail" height="30" width="40" /></a>  
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/cihan-karabas-80993149/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cihan-karabas-80993149/" height="24" width="24" /></a>
+<a href="https://instagram.com/karabas_cihan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karabas_cihan" height="24" width="24" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
