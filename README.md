@@ -1,4 +1,4 @@
-<p align="left">Hi 👋, I'm Cihan<br><br>I graduated from Sakarya University Computer Engineering Department in 2014.<br><br>I have been an iOS developer working on developing high quality, user friendly and scalable applications for about 8 years.I love to follow the latest Apple technologies and always improve myself.</p>
+<p align="left">Hi 👋, I'm Cihan<br><br>I graduated from Sakarya University Computer Engineering Department in 2014.<br><br>I have been an iOS developer working on developing high quality, user friendly and scalable applications for about 8 years. I love to follow the latest Apple technologies and always improve myself.</p>
 
 ###
 
